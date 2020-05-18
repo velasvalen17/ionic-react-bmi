@@ -2,7 +2,7 @@
 
 ## Overview
 
-Proof of concept. Web app transformed into a Android app that calculates the Mass-Body-Index using two input fields and two buttons. Inputs are accepted as meters/kgs or feet/lbs.
+Proof of concept. Web app transformed into an Android app that calculates the Mass-Body-Index using two input fields and two buttons. Inputs are accepted as meters/kgs or feet/lbs.
 
 ## Build and deploy
 
