@@ -4,6 +4,12 @@
 
 Proof of concept. Web app transformed into an Android app that calculates the Mass-Body-Index using two input fields and two buttons. Inputs are accepted as meters/kgs or feet/lbs.
 
+## Ionic cheatsheet
+
+Run the app:
+
+        sudo ionic serve
+
 ## Build and deploy
 
 ### Android
