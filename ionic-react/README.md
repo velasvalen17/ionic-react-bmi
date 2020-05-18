@@ -6,6 +6,8 @@ Proof of concept. Web app transformed into an Android app that calculates the Ma
 
 ## Build and deploy
 
+### Android
+
 This app was developed using React and Ionic (for the style and behaviour of the components).
 Once the web app is finished:
 
@@ -14,3 +16,11 @@ Once the web app is finished:
         sudo ionic cap open android
 
 This way the app will be opened in Android Studio and you'll be able to install it to any of your Android devices.
+
+### Desktop
+
+Follow this guide to setup the dependencies: [Guide]("https://capacitor.ionicframework.com/docs/electron/")
+
+Some changes must be made in order to change static links and make them poin well to the .js files:
+
+![HowToSolveTheError](./images/HowTO.png)

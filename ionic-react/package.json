@@ -1,7 +1,14 @@
 {
   "name": "ionic-react",
-  "version": "0.0.1",
+  "author": {
+    "name": "Sergio Valenzuela",
+    "email": "velasvalen17@gmail.com",
+    "url": "https://github.com/velasvalen17"
+  },
+  "description": "Ionic framework based Electron project",
+  "version": "1.0.1",
   "private": true,
+  "homepage": ".",
   "dependencies": {
     "@capacitor/android": "^2.1.0",
     "@capacitor/core": "2.1.0",
@@ -48,6 +55,5 @@
   },
   "devDependencies": {
     "@capacitor/cli": "2.1.0"
-  },
-  "description": "An Ionic project"
+  }
 }
